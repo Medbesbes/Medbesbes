@@ -34,6 +34,9 @@ Currently I focus on various technologies for which I have seen a good future ah
 
 ## Contact me
 <div style="display:flex">
+  <a href="https://www.linkedin.com/in/mohamed-besbes/">
+    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://t.me/med_besbes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
