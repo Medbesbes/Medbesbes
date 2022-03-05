@@ -6,7 +6,9 @@ Currently I focus on various technologies for which I have seen a good future ah
 
 
 ## MY SKILLS
-
+![Laravel](https://img.shields.io/badge/Laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-000?style=for-the-badge&logo=symfony&logoColor=white
+![next](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![next](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![next](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)
 ![next](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
