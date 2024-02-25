@@ -40,7 +40,7 @@ I am a full-stack developer, With 5 years of experience in web development, I sp
   <a href="https://twitter.com/Med_Besbes">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/mohamedbesbes">
+  <a href="https://www.behance.net/mohamed-besbes">
     <img src="https://img.shields.io/badge/behance-000?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>
