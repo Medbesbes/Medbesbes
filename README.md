@@ -9,7 +9,7 @@ I am a full-stack developer, With 5 years of experience in web development, I sp
 ![Laravel](https://img.shields.io/badge/Laravel-DD0031?style=for-the-badge&logo=laravel&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vue.js-000?style=for-the-badge&logo=vue.js&logoColor=green)
-![React](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=react.js&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![next](https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white)
